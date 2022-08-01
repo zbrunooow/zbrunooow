@@ -1,6 +1,6 @@
 
 ### Hello I'm Gabriel, aka zBrunooow! 👋
-The art of programming is my passion :D
+The art of programming is my dream and my passion :D
 
 ### 📋 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
